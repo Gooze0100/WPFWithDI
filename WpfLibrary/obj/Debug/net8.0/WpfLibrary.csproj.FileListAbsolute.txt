@@ -1,0 +1,11 @@
+C:\Local\DIInWPFApp\WpfLibrary\bin\Debug\net8.0\WpfLibrary.deps.json
+C:\Local\DIInWPFApp\WpfLibrary\bin\Debug\net8.0\WpfLibrary.dll
+C:\Local\DIInWPFApp\WpfLibrary\bin\Debug\net8.0\WpfLibrary.pdb
+C:\Local\DIInWPFApp\WpfLibrary\obj\Debug\net8.0\WpfLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Local\DIInWPFApp\WpfLibrary\obj\Debug\net8.0\WpfLibrary.AssemblyInfoInputs.cache
+C:\Local\DIInWPFApp\WpfLibrary\obj\Debug\net8.0\WpfLibrary.AssemblyInfo.cs
+C:\Local\DIInWPFApp\WpfLibrary\obj\Debug\net8.0\WpfLibrary.csproj.CoreCompileInputs.cache
+C:\Local\DIInWPFApp\WpfLibrary\obj\Debug\net8.0\WpfLibrary.dll
+C:\Local\DIInWPFApp\WpfLibrary\obj\Debug\net8.0\refint\WpfLibrary.dll
+C:\Local\DIInWPFApp\WpfLibrary\obj\Debug\net8.0\WpfLibrary.pdb
+C:\Local\DIInWPFApp\WpfLibrary\obj\Debug\net8.0\ref\WpfLibrary.dll
